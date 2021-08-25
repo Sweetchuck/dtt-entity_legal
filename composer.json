@@ -1,0 +1,44 @@
+{
+    "type": "drupal-dtt",
+    "name": "sweetchuck/dtt-entity_legal",
+    "description": "@todo project description",
+    "keywords": [
+        "drupal",
+        "test-trait",
+        "entity_legal"
+    ],
+    "authors": [
+        {
+            "name": "Dávid Andor",
+            "role": "Maintainer",
+            "homepage": "https://github.com/Sweetchuck"
+        }
+    ],
+    "homepage": "https://github.com/Sweetchuck/dtt-entity_legal",
+    "support": {
+        "source": "https://github.com/Sweetchuck/dtt-entity_legal",
+        "issues": "https://github.com/Sweetchuck/dtt-entity_legal/issues"
+    },
+    "license": "GPL-2.0-or-later",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "bin-dir": "bin",
+        "preferred-install": "dist",
+        "optimize-autoloader": true,
+        "sort-packages": true
+    },
+    "repositories": {},
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Sweetchuck\\DrupalTestTraits\\EntityLegal\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {}
+    },
+    "scripts": {},
+    "scripts-descriptions": {}
+}
