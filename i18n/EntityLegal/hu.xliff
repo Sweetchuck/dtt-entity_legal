@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xliff
+  srcLang="en"
+  trgLang="hu"
+  version="2.0"
+  xmlns="urn:oasis:names:tc:xliff:document:2.0">
+
+  <file id="drupal-entity_legal">
+    <group id="Sweetchuck.DrupalTestTraits.EntityLegal.Behat.Context.EntityLegal" />
+  </file>
+</xliff>
